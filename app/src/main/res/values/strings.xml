@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SegundoParcialApp</string>
+    <string name="information">Segunda Evaluación</string>
+    <string name="txt_nombre">Nombre: André Martí</string>
+    <string name="txt_matricula">Matrícula: 405610</string>
+    <string name="txt_carrera">Carrera: LTI</string>
+    <string name="txtm_descripcion">
+        Descripción de algún libro o
+        película de su preferencia.
+    </string>
+    <string name="txtm_informacion_libro">
+        Incluir nombre del autor, año
+        de publicación, etc.
+    </string>
+    <string name="txt_precio_sug">Precio sugerido</string>
+    <string name="txt_cant_comprar">Cantidad a comprar</string>
+    <string name="txt_precio_total">Total</string>
+    <string name="txt_calcular">Calcular</string>
+    <string name="txt_limpiar">Limpiar</string>
+    <string name="txt_salir">Salir</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="btn_salir">Salir</string>
+</resources>
